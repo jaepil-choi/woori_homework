@@ -1,0 +1,72 @@
+# 1월 우리은행 추천펀드
+woori_best_funds:
+  # - name: 피델리티글로벌테크놀로지증권자투자신탁(주식-재간접형)
+  #   standardCd: K55235B39924
+  #   companyCd: A01043 
+  #   is_domestic: False or True
+  #   kind: stock or mix or bond
+  - name: 한국투자한국의제4차산업혁명증권자투자신탁 1(주식)
+    standardCd: KR5101521619
+    companyCd: A01001
+    is_domestic: True
+    kind: stock
+  - name: 우리G공모주10증권투자신탁[채권혼합](운용)
+    standardCd: K55228B34037
+    companyCd: A01036
+    is_domestic: True
+    kind: mix
+  - name: 하나UBS코스닥벤처기업&공모주증권투자신탁[주식혼합-파생형]
+    standardCd: K55102C60433
+    companyCd: A01002
+    is_domestic: True
+    kind: mix
+  - name: 키움더드림단기채증권투자신탁[채권]
+    standardCd: K55206BN8940
+    companyCd: A01014
+    is_domestic: True
+    kind: mix
+  - name: 피델리티글로벌테크놀로지증권자투자신탁(주식-재간접형)
+    standardCd: K55235B39924
+    companyCd: A01043
+    is_domestic: False
+    kind: stock
+  - name: DB글로벌차세대모빌리티증권자투자신탁(H)[주식]운용
+    standardCd: K55216BR3929
+    companyCd: A01024
+    is_domestic: False
+    kind: stock
+  - name: 한국투자미국배당귀족증권자투자신탁H(주식)
+    standardCd: K55101D20551
+    companyCd: A01001
+    is_domestic: False
+    kind: stock
+  - name: 교보악사로보테크증권자투자신탁 1(H)[주식](운용)
+    standardCd: K55207BV6067
+    companyCd: A01015
+    is_domestic: False
+    kind: stock
+  - name: 미래에셋글로벌코어테크EMP증권투자신탁(주식-재간접형)
+    standardCd: K55301C62551
+    companyCd: A01048
+    is_domestic: False
+    kind: stock
+  - name: 키움글로벌구독경제증권자투자신탁(H)[주식]
+    standardCd: K55206D33239
+    companyCd: A01014
+    is_domestic: False
+    kind: stock
+  - name: 삼성글로벌다이나믹자산배분증권자투자신탁H[주식혼합-재간접형]
+    standardCd: K55105B58002
+    companyCd: A01005
+    is_domestic: False
+    kind: mix
+  - name: IBK플레인바닐라EMP증권투자신탁[혼합-재간접형]
+    standardCd: K55234CJ0872
+    companyCd: A01042
+    is_domestic: False
+    kind: mix
+  - name: 유리글로벌Top10주식과단기채증권자투자신탁[채권혼합]_운용
+    standardCd: K55307DH1527
+    companyCd: A01054
+    is_domestic: False
+    kind: mix
